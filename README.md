@@ -1,4 +1,4 @@
-# GitHHub API Guide
+# GitHub API Guide
 
 ## CLI
 
